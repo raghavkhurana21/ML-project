@@ -1,0 +1,7 @@
+  
+django==3.0.3
+joblib
+scikit-learn
+psycopg2
+joblib
+sklearn
